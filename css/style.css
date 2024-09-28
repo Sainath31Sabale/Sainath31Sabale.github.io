@@ -57,7 +57,7 @@ body {
   line-height: 1.5;
   color:  hsl(210, 25%, 51%);
   text-align: left;
-  background-color: #fff; }
+  background-color: #999999; }
 
 [tabindex="-1"]:focus {
   outline: 0 !important; }
